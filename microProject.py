@@ -3,7 +3,7 @@ from tkinter import *
 
 root = Tk()
 
-root.geometry("600x500")
+root.geometry("500x600")
 root.title("Python Micro Project")
 
 questionLabel = None

@@ -2,7 +2,7 @@ from random import randint, choice
 from tkinter import *
 
 root = Tk()
-root.geometry("700x600")
+root.geometry("500x600")
 root.title("Python Micro Project")
 
 # Configure background color
